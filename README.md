@@ -42,3 +42,4 @@ PlateauKit: https://github.com/ozekik/plateaukit
 PlateauUtils: https://github.com/Project-PLATEAU/PlateauUtils
 PythonとPlotlyで富士山の立体図をブラウザ上で表示する: https://www.odndo.com/posts/python-plotly-html-fujisan/
 Pythonで複数の標高タイルを結合して富士山の3D立体地形図を描いてみる: https://memomemokun.hateblo.jp/entry/2018/11/30/204618
+Project-PLATEAU/Auto-Create-bldg-lod2-tool: https://github.com/Project-PLATEAU/Auto-Create-bldg-lod2-tool
