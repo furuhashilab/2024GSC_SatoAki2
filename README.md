@@ -35,3 +35,10 @@ PLATEAUプロジェクトは、日本全国の3D都市モデルをオープン�
 **6. 結論（Conclusion）**
 
 富士山の3Dモデル生成に特化したPythonライブラリの開発は、地理空間データの活用を促進し、多様な分野での応用が期待される。PLATEAUプロジェクトのオープンデータを最大限に活用し、ユーザーが容易に高精度な3Dモデルを生成・操作・解析できる環境を提供することを目指す。 
+
+
+## 参考文献（References）
+PlateauKit: https://github.com/ozekik/plateaukit
+PlateauUtils: https://github.com/Project-PLATEAU/PlateauUtils
+PythonとPlotlyで富士山の立体図をブラウザ上で表示する: https://www.odndo.com/posts/python-plotly-html-fujisan/
+Pythonで複数の標高タイルを結合して富士山の3D立体地形図を描いてみる: https://memomemokun.hateblo.jp/entry/2018/11/30/204618
