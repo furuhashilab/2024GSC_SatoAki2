@@ -39,8 +39,8 @@ PLATEAUプロジェクトは、日本全国の3D都市モデルをオープン�
 
 
 ## 参考文献（References）
-PlateauKit: https://github.com/ozekik/plateaukit
-<br/>PlateauUtils: https://github.com/Project-PLATEAU/PlateauUtils
-<br/>PythonとPlotlyで富士山の立体図をブラウザ上で表示する: https://www.odndo.com/posts/python-plotly-html-fujisan/
-<br/>Pythonで複数の標高タイルを結合して富士山の3D立体地形図を描いてみる: https://memomemokun.hateblo.jp/entry/2018/11/30/204618
-<br/>Project-PLATEAU/Auto-Create-bldg-lod2-tool: https://github.com/Project-PLATEAU/Auto-Create-bldg-lod2-tool
+PlateauKit:https://github.com/ozekik/plateaukit
+<br/>PlateauUtils:https://github.com/Project-PLATEAU/PlateauUtils
+<br/>PythonとPlotlyで富士山の立体図をブラウザ上で表示する:https://www.odndo.com/posts/python-plotly-html-fujisan/
+<br/>Pythonで複数の標高タイルを結合して富士山の3D立体地形図を描いてみる:https://memomemokun.hateblo.jp/entry/2018/11/30/204618
+<br/>Project-PLATEAU/Auto-Create-bldg-lod2-tool:https://github.com/Project-PLATEAU/Auto-Create-bldg-lod2-tool
