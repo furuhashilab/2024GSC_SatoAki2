@@ -1,5 +1,4 @@
-# 2024GSC_SatoAki2 中間発表
-**富士山3Dモデル生成のためのPythonライブラリ開発提案**
+# 2024GSC_SatoAki2 中間発表 『富士山3Dモデル生成のためのPythonライブラリ開発提案』
 
 ## 1. はじめに（Introduction）
 
