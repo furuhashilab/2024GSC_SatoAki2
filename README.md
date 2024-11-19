@@ -1,4 +1,10 @@
-# 2024GSC_SatoAki2 中間発表 『富士山3Dモデル生成のためのPythonライブラリ開発提案』
+# 2024GSC_SatoAki2 
+**『富士山3Dモデル生成のためのPythonライブラリ開発提案』**
+青山学院大学　地球社会共生学部　地球社会共生学科
+佐藤　愛妃/ Sato Aki
+学籍番号 1A122083
+指導教員 古橋大地 教授
+©︎Furuhashi Laboratory/Tomoki Fukamizu, CC BY 4.0
 
 ## 1. はじめに（Introduction）
 
@@ -38,7 +44,7 @@ PLATEAUプロジェクトは、日本全国の3D都市モデルをオープン�
 富士山の3Dモデル生成に特化したPythonライブラリの開発は、地理空間データの活用を促進し、多様な分野での応用が期待される。PLATEAUプロジェクトのオープンデータを最大限に活用し、ユーザーが容易に高精度な3Dモデルを生成・操作・解析できる環境を提供することを目指す。 
 
 
-## 参考文献（References）
+## 7. 参考文献（References）
 PlateauKit:https://github.com/ozekik/plateaukit
 <br/>PlateauUtils:https://github.com/Project-PLATEAU/PlateauUtils
 <br/>PythonとPlotlyで富士山の立体図をブラウザ上で表示する:https://www.odndo.com/posts/python-plotly-html-fujisan/
