@@ -1,10 +1,10 @@
 # 2024GSC_SatoAki2 
 **『富士山3Dモデル生成のためのPythonライブラリ開発提案』**
-青山学院大学　地球社会共生学部　地球社会共生学科
-佐藤　愛妃/ Sato Aki
-学籍番号 1A122083
-指導教員 古橋大地 教授
-©︎Furuhashi Laboratory/Tomoki Fukamizu, CC BY 4.0
+<br/>青山学院大学　地球社会共生学部　地球社会共生学科
+<br/>佐藤　愛妃/ Sato Aki
+<br/>学籍番号 1A122083
+<br/>指導教員 古橋大地 教授
+<br/>©︎Furuhashi Laboratory/Aki Sato, CC BY 4.0
 
 ## 1. はじめに（Introduction）
 
