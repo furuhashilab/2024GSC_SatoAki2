@@ -13,7 +13,7 @@ PLATEAUプロジェクトは、日本全国の3D都市モデルをオープン�
 
 ## 3. 方法（Method)
 
-本プロジェクトでは、以下のステップで富士山の3Dモデル生成ライブラリを開発する。
+本プロジェクトでは、以下のステップで富士山の3Dモデル生成ライブラリを開発する予定である。
 
 1. **データ収集:** PLATEAUプロジェクトのオープンデータポータルから、富士山地域の3D都市モデルデータを収集する。
 2. **データ処理:** 収集したデータを前処理し、必要に応じてCityGMLから他の形式（例: GeoJSON）への変換を行う。
@@ -38,8 +38,8 @@ PLATEAUプロジェクトは、日本全国の3D都市モデルをオープン�
 
 
 ## 参考文献（References）
-PlateauKit: https://github.com/ozekik/plateaukit
-PlateauUtils: https://github.com/Project-PLATEAU/PlateauUtils
-PythonとPlotlyで富士山の立体図をブラウザ上で表示する: https://www.odndo.com/posts/python-plotly-html-fujisan/
-Pythonで複数の標高タイルを結合して富士山の3D立体地形図を描いてみる: https://memomemokun.hateblo.jp/entry/2018/11/30/204618
-Project-PLATEAU/Auto-Create-bldg-lod2-tool: https://github.com/Project-PLATEAU/Auto-Create-bldg-lod2-tool
+<br/>PlateauKit: https://github.com/ozekik/plateaukit
+<br/>PlateauUtils: https://github.com/Project-PLATEAU/PlateauUtils
+<br/>PythonとPlotlyで富士山の立体図をブラウザ上で表示する: https://www.odndo.com/posts/python-plotly-html-fujisan/
+<br/>Pythonで複数の標高タイルを結合して富士山の3D立体地形図を描いてみる: https://memomemokun.hateblo.jp/entry/2018/11/30/204618
+<br/>Project-PLATEAU/Auto-Create-bldg-lod2-tool: https://github.com/Project-PLATEAU/Auto-Create-bldg-lod2-tool
